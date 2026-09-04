@@ -1,0 +1,1 @@
+"""SahiMandi backend application package."""
